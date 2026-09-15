@@ -1,7 +1,7 @@
 # pytodo — A Python CLI To-Do List Application
 
 A command-line (CLI) To-Do list application built from scratch in Python.
-Tasker lets you add, view, and delete tasks from an in-memory list, with
+pytodo lets you add, view, and delete tasks from an in-memory list, with
 full input validation and error handling at every step.
 
 > **Where you run your day.**
